@@ -1,0 +1,5 @@
+#Env values where you hide your super secret env stuff
+.env
+
+#node modules
+node_modules/

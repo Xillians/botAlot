@@ -1,0 +1,19 @@
+{
+  "name": "botalot",
+  "version": "1.0.0",
+  "description": "running the bot botAlot ",
+  "main": "App.js",
+  "scripts": {
+    "test": "asd",
+    "start": "node ./App.js",
+    "startOnSave": "forever -w ./App.js"
+  },
+  "author": "Xillians",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "forever": "^1.0.0",
+    "standard-version": "^7.0.0"
+  }
+}

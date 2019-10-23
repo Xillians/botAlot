@@ -6,6 +6,11 @@ var http = require("http");
 http.createServer().listen(process.env.PORT || 5000);
 dotenv.config();
 
+setInterval( () => {
+    http.get("https://discordbotalot.herokuapp.com");
+    console.log("Ah ah ah ah staying alive! staying alive!");    
+}, 300000); 
+
 client.on('ready', () => {
     console.log("Connected!");    
     console.log(`Logged in as ${client.user.tag}!`);

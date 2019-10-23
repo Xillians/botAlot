@@ -1,6 +1,6 @@
 {
   "name": "botalot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "running the bot botAlot ",
   "main": "App.js",
   "scripts": {

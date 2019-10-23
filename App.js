@@ -7,7 +7,7 @@ http.createServer().listen(process.env.PORT || 5000);
 dotenv.config();
 
 setInterval( () => {
-    http.get("https://discordbotalot.herokuapp.com");
+    http.get("http://discordbotalot.herokuapp.com");
     console.log("Ah ah ah ah staying alive! staying alive!");    
 }, 300000); 
 

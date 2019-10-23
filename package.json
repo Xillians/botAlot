@@ -6,7 +6,9 @@
   "scripts": {
     "test": "asd",
     "start": "node ./App.js",
-    "startOnSave": "forever -w ./App.js"
+    "startOnSave": "forever -w ./App.js",
+    "updateChangelog": "git checkout master; git pull origin master",
+    "deploy": "git push heroku master"
   },
   "author": "Xillians",
   "license": "ISC",

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/Xillians/botAlot/compare/v1.1.2...v1.1.3) (2019-10-24)
+
+
+### Bug Fixes
+
+* correct minor typos in code ([5b05c24](https://github.com/Xillians/botAlot/commit/5b05c24a56478945bc86e89af18c56e11936d64b))
+
 ### [1.1.2](https://github.com/Xillians/botAlot/compare/v1.1.1...v1.1.2) (2019-10-24)
 
 ### [1.1.1](https://github.com/Xillians/botAlot/compare/v1.1.0...v1.1.1) (2019-10-23)

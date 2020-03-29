@@ -13,7 +13,7 @@ client.on('ready', () => {
 
 client.on('message', (message) => {
     if (message.content.toUpperCase().includes('ALOT')) {
-        message.channel.send("HELLO!", {files: ["https://i.imgur.com/45L4Ira.png"]});    
+        message.channel.send({files: ["https://i.imgur.com/45L4Ira.png"]});    
     }
 })
 

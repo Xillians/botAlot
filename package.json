@@ -13,9 +13,9 @@
   "author": "Xillians",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0",
-    "forever": "^2.0.0",
-    "standard-version": "^8.0.1"
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "forever": "^4.0.3",
+    "standard-version": "^9.5.0"
   }
 }
